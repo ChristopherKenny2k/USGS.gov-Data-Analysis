@@ -1,4 +1,4 @@
-# USGS.gov-Data-Analysis
+# USGS.gov Earthquake Data Analysis
 
 ### Project Description
 
